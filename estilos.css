@@ -1,0 +1,51 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #ccd4da;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-decoration: overline underline;
+    
+}
+t{
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.estilo{
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+    border-style: hidden 50px;
+    
+        
+}
+.body{
+    background: orange;
+}
+.texto{
+    text-align: center;
+    color: forestgreen;
+}
+.comida tipica{
+    padding: 5px;
+    width: 40%;
+    height: 80px;
+    border-radius: 5px;
+    color: red;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+    
+}
+
+.peten{
+    font-family:cursive;
+    text-align: center;
+    margin: 20px 30px ;
+    color: green;
+    
+}
